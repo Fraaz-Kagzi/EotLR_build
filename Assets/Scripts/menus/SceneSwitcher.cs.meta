@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/CoinManager1.cs.meta
+guid: 5a4f01eee45ad496fa7025091cc34271
+========
+guid: df20b5713be3b4ccfb095e1f64c3fea0
+>>>>>>>> 465e840e49bb9f6b9a8c707b01bee77951c16c5f:Assets/Scripts/SceneSwitcher.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
